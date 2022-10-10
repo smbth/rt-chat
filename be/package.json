@@ -1,0 +1,16 @@
+{
+  "name": "node-socket",
+  "version": "1.0.0",
+  "description": "Initial Prototype of a RTC app using node socket.io vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sambath",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "socket.io": "^4.5.2"
+  }
+}
